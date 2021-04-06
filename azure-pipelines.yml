@@ -46,4 +46,4 @@ steps:
   displayName: 'Build the project - Release' 
   inputs: 
     command: 'build'
-    arguments: '--no-restore
+    arguments: '--no-restore'
